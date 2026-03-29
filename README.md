@@ -21,10 +21,14 @@
 
 ## 📊 GitHub Stats
 Evolución de mi actividad y consistencia en desarrollo.
-<table>
+<table width="100%">
   <tr>
+    <!--
     <td><img src="https://github-readme-stats.vercel.app/api?username=armandomariscal&show_icons=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=armandomariscal" /></td>
+    -->
+    <td width="100%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandomariscal" width="100%" />
+    </td>
   </tr>
 </table>
 
