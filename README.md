@@ -39,9 +39,6 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <th>🟣</th>
     <th>QA</th>
     <td><a href="https://github.com/armandomariscal/sansar-tcg">sansar-tcg</a></td>
-    <td rowspan="7">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandomariscal&layout=compact" alt="top-langs" width="500"/>
-    </td>
   </tr>
   <tr>
     <th>🔵</th>
