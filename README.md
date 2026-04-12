@@ -53,7 +53,17 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🟢</th>
     <th>Backend</th>
-    <td><a href="https://github.com/armandomariscal/neon">neon</a></td>
+    <td>
+    <ul style="list-style:none;">
+      <a href="https://github.com/armandomariscal/neon">
+        <img src="https://img.shields.io/badge/neon-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
+      </a>    
+      </br>
+      <a href="https://github.com/armandomariscal/jabberwocky">
+        <img src="https://img.shields.io/badge/jabberwocky-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
+      </a>
+    </ul>
+  </td>
   </tr>
   <tr>
     <th>🟡</th>
