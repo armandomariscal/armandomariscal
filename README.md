@@ -62,6 +62,10 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
       <a href="https://github.com/armandomariscal/jabberwocky">
         <img src="https://img.shields.io/badge/jabberwocky-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
       </a>
+      </br>
+      <a href="https://github.com/armandomariscal/movies">
+        <img src="https://img.shields.io/badge/movies-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
+      </a>
     </ul>
   </td>
   </tr>
