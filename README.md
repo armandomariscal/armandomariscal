@@ -72,7 +72,13 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🟡</th>
     <th>Core</th>
-    <td><a href="https://github.com/armandomariscal/currency-converter">currency-converter</a></td>
+    <td>
+      <ul style="list-style:none;">
+      <a href="https://github.com/armandomariscal/currency-converter">
+        <img src="https://img.shields.io/badge/CurrencyConverter-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="neon TypeScript" align="center">
+      </a>    
+    </ul>
+    </td>
   </tr>
   <tr>
     <th>🟠</th>
