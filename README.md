@@ -88,7 +88,13 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🔴</th>
     <th>Cloud</th>
-    <td><a href="https://github.com/armandomariscal/art-movements">art-movements</a></td>
+    <td>
+      <ul style="list-style:none;">
+          <a href="https://github.com/armandomariscal/art-movements">
+            <img src="https://img.shields.io/badge/ArtMovements-MEVN--Stack-41B883?style=flat&logo=vuedotjs&logoColor=white&labelColor=333333" alt="Art Movements MEVN Stack" align="center">
+          </a>
+      </ul>
+    </td>
   </tr>
 </table>
 
