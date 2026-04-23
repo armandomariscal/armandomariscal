@@ -38,7 +38,11 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🟣</th>
     <th>QA</th>
-    <td><a href="https://github.com/armandomariscal/sansar-tcg">sansar-tcg</a></td>
+    <td>
+       <a href="https://github.com/armandomariscal/sansar-tcg">
+        <img src="https://img.shields.io/badge/sansar--tcg-Next.js%20%2B%20QA%20Architecture-6200EA?style=flat&logo=nextdotjs&logoColor=white&labelColor=333333" alt="sansar-tcg QA" align="center">
+      </a>
+    </td>
   </tr>
   <tr>
     <th>🔵</th>
