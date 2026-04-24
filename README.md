@@ -47,7 +47,13 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🔵</th>
     <th>System Design</th>
-    <td><a href="https://github.com/armandomariscal/designing-distributed-systems">designing-distributed-systems</a></td>
+    <td>
+      <ul style="list-style:none;">
+        <a href="https://github.com/armandomariscal/designing-distributed-systems">
+          <img src="https://img.shields.io/badge/designing--distributed--systems-Markdown-1A237E?style=flat&logo=markdown&logoColor=white&labelColor=333333" alt="designing-distributed-systems" align="center">
+        </a>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>🔷</th>
