@@ -58,7 +58,13 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🔷</th>
     <th>Frontend</th>
-    <td><a href="https://github.com/armandomariscal/chevrolet-tracker">chevrolet-tracker</a></td>
+    <td>
+      <ul style="list-style:none;">
+        <a href="https://github.com/armandomariscal/chevrolet-tracker">
+          <img src="https://img.shields.io/badge/chevrolet--tracker-Angular%20%2B%20Nx-2962FF?style=flat&logo=angular&logoColor=white&labelColor=333333" alt="chevrolet-tracker" align="center">
+        </a>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>🟢</th>
