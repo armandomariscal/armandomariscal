@@ -71,6 +71,10 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <th>Backend</th>
     <td>
     <ul style="list-style:none;">
+      <a href="https://github.com/armandomariscal/chevrolet-tracker">
+        <img src="https://img.shields.io/badge/chevrolet--tracker-Fastify%20%2B%20Prisma-0F172A?style=flat&logo=fastify&logoColor=white&labelColor=333333" alt="chevrolet-tracker Fastify Prisma" align="center">
+        </a>
+      </br>
       <a href="https://github.com/armandomariscal/neon">
         <img src="https://img.shields.io/badge/neon-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
       </a>    
