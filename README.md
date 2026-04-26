@@ -39,9 +39,11 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <th>🟣</th>
     <th>QA</th>
     <td>
+      <ul style="list-style:none;">
        <a href="https://github.com/armandomariscal/sansar-tcg">
-        <img src="https://img.shields.io/badge/sansar--tcg-Next.js%20%2B%20QA%20Architecture-6200EA?style=flat&logo=nextdotjs&logoColor=white&labelColor=333333" alt="sansar-tcg QA" align="center">
+        <img src="https://img.shields.io/badge/sansar--tcg-Next.js-6200EA?style=flat&logo=nextdotjs&logoColor=white&labelColor=333333" alt="sansar-tcg QA" align="center">
       </a>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -61,7 +63,7 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <td>
       <ul style="list-style:none;">
         <a href="https://github.com/armandomariscal/chevrolet-tracker">
-          <img src="https://img.shields.io/badge/chevrolet--tracker-Angular%20%2B%20Nx-2962FF?style=flat&logo=angular&logoColor=white&labelColor=333333" alt="chevrolet-tracker" align="center">
+          <img src="https://img.shields.io/badge/chevrolet--tracker-Angular-2962FF?style=flat&logo=angular&logoColor=white&labelColor=333333" alt="chevrolet-tracker" align="center">
         </a>
       </ul>
     </td>
@@ -72,19 +74,19 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <td>
     <ul style="list-style:none;">
       <a href="https://github.com/armandomariscal/chevrolet-tracker">
-        <img src="https://img.shields.io/badge/chevrolet--tracker-Fastify%20%2B%20Prisma-0F172A?style=flat&logo=fastify&logoColor=white&labelColor=333333" alt="chevrolet-tracker Fastify Prisma" align="center">
+        <img src="https://img.shields.io/badge/chevrolet--tracker-Fastify-2E7D32?style=flat&logo=fastify&logoColor=white&labelColor=333333" alt="chevrolet-tracker Fastify Prisma" align="center">
         </a>
       </br>
       <a href="https://github.com/armandomariscal/neon">
-        <img src="https://img.shields.io/badge/neon-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
+        <img src="https://img.shields.io/badge/neon-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
       </a>    
       </br>
       <a href="https://github.com/armandomariscal/jabberwocky">
-        <img src="https://img.shields.io/badge/jabberwocky-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
+        <img src="https://img.shields.io/badge/jabberwocky-Java-2E7D32?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
       </a>
       </br>
       <a href="https://github.com/armandomariscal/movies">
-        <img src="https://img.shields.io/badge/movies-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
+        <img src="https://img.shields.io/badge/movies-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
       </a>
     </ul>
   </td>
@@ -95,7 +97,7 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <td>
       <ul style="list-style:none;">
       <a href="https://github.com/armandomariscal/currency-converter">
-        <img src="https://img.shields.io/badge/CurrencyConverter-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="neon TypeScript" align="center">
+        <img src="https://img.shields.io/badge/currency--converter-TypeScript-FFD600?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="neon TypeScript" align="center">
       </a>    
     </ul>
     </td>
@@ -106,7 +108,7 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <td>
       <ul style="list-style:none;">
         <a href="https://github.com/armandomariscal/mean-stack-portfolio">
-          <img src="https://img.shields.io/badge/mean--stack--portfolio-MongoDB%20%2B%20Express%20%2B%20Angular%20%2B%20Node.js-F57F17?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="mean-stack-portfolio MEAN Stack" align="center">
+          <img src="https://img.shields.io/badge/mean--stack--portfolio-MEAN--Stack-F57F17?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="mean-stack-portfolio MEAN Stack" align="center">
         </a>
       </ul>
     </td>
@@ -117,7 +119,7 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <td>
       <ul style="list-style:none;">
           <a href="https://github.com/armandomariscal/art-movements">
-            <img src="https://img.shields.io/badge/ArtMovements-MEVN--Stack-41B883?style=flat&logo=vuedotjs&logoColor=white&labelColor=333333" alt="Art Movements MEVN Stack" align="center">
+            <img src="https://img.shields.io/badge/art--movements-MEVN--Stack-D50000?style=flat&logo=vuedotjs&logoColor=white&labelColor=333333" alt="Art Movements MEVN Stack" align="center">
           </a>
       </ul>
     </td>
