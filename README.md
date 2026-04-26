@@ -103,7 +103,13 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   <tr>
     <th>🟠</th>
     <th>Product</th>
-    <td><a href="https://github.com/armandomariscal/mean-stack-portfolio">mean-stack-portfolio</a></td>
+    <td>
+      <ul style="list-style:none;">
+        <a href="https://github.com/armandomariscal/mean-stack-portfolio">
+          <img src="https://img.shields.io/badge/mean--stack--portfolio-MongoDB%20%2B%20Express%20%2B%20Angular%20%2B%20Node.js-F57F17?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="mean-stack-portfolio MEAN Stack" align="center">
+        </a>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>🔴</th>
