@@ -1,11 +1,12 @@
-# 🤠 Armando Mariscal
+# Armando Mariscal 
+## Frontend Developer | JavaScript · Webix | Python · Django REST APIs
 
 <table>
   <tr>
     <td>
-    💻 Desarrollo interfaces modernas y escalables, con experiencia en backend con Python.
+    Desarrollo interfaces modernas y escalables, con experiencia en backend con Python (Django y Django REST framework) y frontend con Webix JavaScript UI Library.
     <br><br>
-    🚀 Enfocado en arquitectura de software, sistemas distribuidos y prácticas DevOps.  
+    Enfocado en arquitectura de software, sistemas distribuidos y prácticas DevOps.  
     </td>
     <td width="600">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armandomariscal" alt="github-profile-summary-cards" />
@@ -13,13 +14,13 @@
   </tr>
 </table>
 
-## 🛠️ Tecnologías
+## Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
-## 📊 GitHub Stats
+## GitHub Stats
 Evolución de mi actividad y consistencia en desarrollo.
 <table width="100%">
   <tr>
@@ -32,7 +33,7 @@ Evolución de mi actividad y consistencia en desarrollo.
   </tr>
 </table>
 
-## 🚀 Proyectos Destacados 2026 (Modern JavaScript / TypeScript Engineer)
+## Proyectos Destacados 2026 (Modern JavaScript / TypeScript Engineer)
 Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo distintas áreas clave del desarrollo.
 <table>
   <tr>
@@ -126,14 +127,14 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   </tr>
 </table>
 
-## 📈 Actividad reciente
+## Actividad reciente
 Visualización de commits y constancia a lo largo del tiempo.
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=armandomariscal)
 
-## 👀 Visitas al perfil
-![Profile Views](https://komarev.com/ghpvc/?username=armandomariscal)
-
-## 🎯 Actualmente
+## Actualmente
 - Profundizando en Docker y prácticas DevOps.
 - Construyendo 7 proyectos enfocados en áreas clave: QA, System Design, Frontend, Backend, TypeScript, Product y Cloud.
 - Migrando hacia un stack moderno basado en TypeScript.
+
+## Visitas al perfil
+![Profile Views](https://komarev.com/ghpvc/?username=armandomariscal)
