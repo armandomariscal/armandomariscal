@@ -136,5 +136,39 @@ Visualización de commits y constancia a lo largo del tiempo.
 - Construyendo 7 proyectos enfocados en áreas clave: QA, System Design, Frontend, Backend, TypeScript, Product y Cloud.
 - Migrando hacia un stack moderno basado en TypeScript.
 
+---
+
+## Proyectos Destacados 2025 (Webix JavaScript / Django REST framework Python)
+<table>
+  <tr>
+    <th>🟣</th>
+    <th>QA</th>
+  </tr>
+  <tr>
+    <th>🔵</th>
+    <th>System Design</th>
+  </tr>
+  <tr>
+    <th>🔷</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <th>🟢</th>
+    <th>Backend</th>
+  </tr>
+  <tr>
+    <th>🟡</th>
+    <th>Core</th>
+  </tr>
+  <tr>
+    <th>🟠</th>
+    <th>Product</th>
+  </tr>
+  <tr>
+    <th>🔴</th>
+    <th>Cloud</th>
+  </tr>
+</table>
+
 ## Visitas al perfil
 ![Profile Views](https://komarev.com/ghpvc/?username=armandomariscal)
