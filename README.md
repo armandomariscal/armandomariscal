@@ -82,10 +82,6 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
         <img src="https://img.shields.io/badge/neon-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
       </a>    
       </br>
-      <a href="https://github.com/armandomariscal/jabberwocky">
-        <img src="https://img.shields.io/badge/jabberwocky-Java-2E7D32?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
-      </a>
-      </br>
       <a href="https://github.com/armandomariscal/movies">
         <img src="https://img.shields.io/badge/movies-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
       </a>
@@ -138,37 +134,33 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ---
 
-## Proyectos Destacados 2025 (Webix JavaScript / Django REST framework Python)
+## Proyectos Destacados 2025 (Webix Frontend Engineer · Backend / API Integration)
 <table>
   <tr>
-    <th>🟣</th>
-    <th>QA</th>
-  </tr>
-  <tr>
-    <th>🔵</th>
-    <th>System Design</th>
-  </tr>
-  <tr>
-    <th>🔷</th>
-    <th>Frontend</th>
-  </tr>
-  <tr>
-    <th>🟢</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <th>🟡</th>
-    <th>Core</th>
-  </tr>
-  <tr>
     <th>🟠</th>
-    <th>Product</th>
+    <th>Java (Spring)</th>
+    <td>
+      <a href="https://github.com/armandomariscal/jabberwocky">
+        <img src="https://img.shields.io/badge/jabberwocky-Java-F57F17?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
+      </a>
+    </td>
   </tr>
   <tr>
     <th>🔴</th>
-    <th>Cloud</th>
+    <th>Ruby (Ruby on Rails)</th>
+    <td>
+      <a href="https://github.com/armandomariscal/payrorll">
+        <img src="https://img.shields.io/badge/payrorll-Ruby-D50000?style=flat&logo=rubyonrails&logoColor=white&labelColor=333333" alt="payrorll Ruby" align="center">
+      </a>
+    </td>
   </tr>
 </table>
+
+## Resumen 2025
+- Desarrollo de interfaces complejas con Webix enfocadas en consumo de APIs REST, trabajando con múltiples backends (Django, FastAPI, Rails, Spring) que exponen datos en formato JSON.
+- Integración frontend–backend en distintos dominios, priorizando consistencia de datos, manejo de estados y flujos completos de negocio.
+- Fortalecimiento en diseño de APIs y contratos frontend/backend, asegurando interoperabilidad entre stacks y construyendo bases sólidas para arquitecturas escalables orientadas a servicios.
+
 
 ## Visitas al perfil
 ![Profile Views](https://komarev.com/ghpvc/?username=armandomariscal)
