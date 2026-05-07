@@ -20,18 +20,19 @@
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
+<!--
 ## GitHub Stats
 Evolución de mi actividad y consistencia en desarrollo.
 <table width="100%">
   <tr>
-    <!--
     <td><img src="https://github-readme-stats.vercel.app/api?username=armandomariscal&show_icons=true" /></td>
-    -->
+    
     <td width="100%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandomariscal" width="100%" />
     </td>
   </tr>
 </table>
+-->
 
 ## Proyectos Destacados 2026 (Modern JavaScript / TypeScript Engineer)
 Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo distintas áreas clave del desarrollo.
@@ -74,10 +75,6 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <th>Backend</th>
     <td>
     <ul style="list-style:none;">
-      <a href="https://github.com/armandomariscal/chevrolet-tracker">
-        <img src="https://img.shields.io/badge/chevrolet--tracker-Fastify-2E7D32?style=flat&logo=fastify&logoColor=white&labelColor=333333" alt="chevrolet-tracker Fastify Prisma" align="center">
-        </a>
-      </br>
       <a href="https://github.com/armandomariscal/neon">
         <img src="https://img.shields.io/badge/neon-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
       </a>    
@@ -136,9 +133,20 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ## Proyectos Destacados 2025 (Webix Frontend Engineer · Backend / API Integration)
 <table>
+   <tr>
+    <th>🟢</th>
+    <th>NodeJS (Fastify)</th>
+    <th>Webix UI</th>
+    <td>
+      <a href="https://github.com/armandomariscal/chevrolet-tracker">
+        <img src="https://img.shields.io/badge/chevrolet--tracker-Fastify-2E7D32?style=flat&logo=fastify&logoColor=white&labelColor=333333" alt="chevrolet-tracker Fastify Prisma" align="center">
+        </a>
+    </td>
+  </tr>
   <tr>
     <th>🟠</th>
     <th>Java (Spring)</th>
+    <th>Webix UI</th>
     <td>
       <a href="https://github.com/armandomariscal/jabberwocky">
         <img src="https://img.shields.io/badge/jabberwocky-Java-F57F17?style=flat&logo=openjdk&logoColor=white&labelColor=333333" alt="jabberwocky Java" align="center">
@@ -148,6 +156,7 @@ Visualización de commits y constancia a lo largo del tiempo.
   <tr>
     <th>🔴</th>
     <th>Ruby (Ruby on Rails)</th>
+    <th>Webix Jet</th>
     <td>
       <a href="https://github.com/armandomariscal/payrorll">
         <img src="https://img.shields.io/badge/payrorll-Ruby-D50000?style=flat&logo=rubyonrails&logoColor=white&labelColor=333333" alt="payrorll Ruby" align="center">
