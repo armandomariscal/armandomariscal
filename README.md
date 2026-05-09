@@ -133,6 +133,16 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ## Proyectos Destacados 2025 (Webix Frontend Engineer · Backend / API Integration)
 <table>
+  <tr>
+    <th>🟣</th>
+    <th>C# (.NET 9)</th>
+    <th>Webix Jet</th>
+    <td>
+      <a href="https://github.com/armandomariscal/vionet-cfdi">
+        <img src="https://img.shields.io/badge/vionet--cfdi-.NET%209-6200EA?style=flat&logo=dotnet&logoColor=white&labelColor=333333" alt="vionet-cfdi .NET 9" align="center">
+      </a>
+    </td>
+  </tr>
    <tr>
     <th>🟢</th>
     <th>NodeJS (Fastify)</th>
