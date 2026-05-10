@@ -75,10 +75,6 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
     <th>Backend</th>
     <td>
     <ul style="list-style:none;">
-      <a href="https://github.com/armandomariscal/neon">
-        <img src="https://img.shields.io/badge/neon-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="neon Node.js" align="center">
-      </a>    
-      </br>
       <a href="https://github.com/armandomariscal/movies">
         <img src="https://img.shields.io/badge/movies-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
       </a>
@@ -180,6 +176,35 @@ Visualización de commits y constancia a lo largo del tiempo.
 - Integración frontend–backend en distintos dominios, priorizando consistencia de datos, manejo de estados y flujos completos de negocio.
 - Fortalecimiento en diseño de APIs y contratos frontend/backend, asegurando interoperabilidad entre stacks y construyendo bases sólidas para arquitecturas escalables orientadas a servicios.
 
+---
+
+## Proyectos Destacados 2024 (Frontend Engineer · Webix / Backend Engineer · Django REST Framework)
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Proyecto</th>
+  </tr>
+
+  <tr>
+    <th>Django REST Framework</th>
+    <th>Webix Jet</th>
+    <td>
+      <a href="https://github.com/armandomariscal/neon">
+        <img src="https://img.shields.io/badge/neon-Webix_Jet-0288D1?style=flat&logo=javascript&logoColor=white&labelColor=333333" alt="neon Webix Jet" align="center">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Resumen 2024
+
+- Exploración de Webix Jet y Django REST Framework en proyectos orientados a experimentar nuevas ideas y flujos de interacción.
+- Aplicación de patrones utilizados en entornos empresariales sobre dominios distintos a los sistemas corporativos tradicionales.
+- Práctica continua enfocada en arquitectura frontend/backend, APIs y organización de aplicaciones SPA.
+
+---
 
 ## Visitas al perfil
 ![Profile Views](https://komarev.com/ghpvc/?username=armandomariscal)
