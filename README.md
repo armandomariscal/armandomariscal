@@ -178,7 +178,9 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ---
 
-## Proyectos Destacados 2024 (Frontend Engineer · Webix / Backend Engineer · Django REST Framework)
+## Proyectos Destacados 2024
+- Frontend · Webix JavaScript UI Library
+- Backend · Django REST Framework
 
 <table>
   <tr>
@@ -192,7 +194,7 @@ Visualización de commits y constancia a lo largo del tiempo.
     <th>Webix Jet</th>
     <td>
       <a href="https://github.com/armandomariscal/neon">
-        <img src="https://img.shields.io/badge/neon-Webix_Jet-0288D1?style=flat&logo=javascript&logoColor=white&labelColor=333333" alt="neon Webix Jet" align="center">
+        <img src="https://img.shields.io/badge/neon-DRF_+_Webix_Jet-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="neon DRF Webix Jet" align="center">
       </a>
     </td>
   </tr>
