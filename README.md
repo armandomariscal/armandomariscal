@@ -206,6 +206,33 @@ Visualización de commits y constancia a lo largo del tiempo.
 - Aplicación de patrones utilizados en entornos empresariales sobre dominios distintos a los sistemas corporativos tradicionales.
 - Práctica continua enfocada en arquitectura frontend/backend, APIs y organización de aplicaciones SPA.
 
+***
+
+## Proyectos Destacados 2023
+- Frontend · AngularJS
+- Backend · Django REST Framework
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Proyecto</th>
+  </tr>
+  <tr>
+    <th>Django REST Framework</th>
+    <th>AngularJS</th>
+    <td>
+      <a href="https://github.com/armandomariscal/drf-logistics">
+        <img src="https://img.shields.io/badge/drf--logistics-DRF_+_AngularJS-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="DRF AngularJS logistics" align="center">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Resumen 2023
+
+- Exploración de AngularJS integrado con Django REST Framework.
+
 ---
 
 ## Visitas al perfil
