@@ -116,14 +116,14 @@ Enfoque en crecimiento como Modern JavaScript / TypeScript Engineer, cubriendo d
   </tr>
 </table>
 
-## Actividad reciente
-Visualización de commits y constancia a lo largo del tiempo.
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=armandomariscal)
-
 ## Actualmente
 - Profundizando en Docker y prácticas DevOps.
 - Construyendo 7 proyectos enfocados en áreas clave: QA, System Design, Frontend, Backend, TypeScript, Product y Cloud.
 - Migrando hacia un stack moderno basado en TypeScript.
+
+## Actividad reciente
+Visualización de commits y constancia a lo largo del tiempo.
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=armandomariscal)
 
 ---
 
@@ -232,6 +232,140 @@ Visualización de commits y constancia a lo largo del tiempo.
 ## Resumen 2023
 
 - Exploración de AngularJS integrado con Django REST Framework.
+
+***
+
+## Proyectos Destacados 2022
+- Frontend · Webix Jet, Bootstrap v5.0
+- Backend · Django 3.2
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Proyecto</th>
+  </tr>
+  <tr>
+    <th>Django 3.2</th>
+    <th>Bootstrap v5.0</th>
+    <td>
+      <a href="https://github.com/armandomariscal/locations">
+        <img src="https://img.shields.io/badge/locations-Django_+_Bootstrap5-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Locations | Bootstrap 5" align="center">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Django 3.2</th>
+    <th>Webix Jet</th>
+    <td>
+      <a href="https://github.com/armandomariscal/locations">
+        <img src="https://img.shields.io/badge/locations-Django_+_WebixJet-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Locations | Webix Jet" align="center">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Resumen 2022
+
+- Enfoque principal en Fundamentos con Webix Jet.
+- Integración de CRM a sistema ERP.
+
+***
+
+## Proyectos Destacados 2021
+- Frontend: Bulma 0.9.3
+- Backend: Django 3.2
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Proyecto</th>
+  </tr>
+  <tr>
+    <th>Django 3.2</th>
+    <th>Bulma 0.9.3</th>
+    <td>
+      <a href="https://github.com/armandomariscal/oscars">
+        <img src="https://img.shields.io/badge/oscars-Django_+_Bootstrap5-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Locations | Bootstrap 5" align="center">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Resumen 2021
+
+- Enfoque principal en fundamentos DRF.
+- Plataformas e-commerce con Conekta.
+- WebRTC con Vonage Video API / TokBox OpenTok, Boto, AWS.
+
+---
+
+## Proyectos Destacados 2020
+- Backend: Django 2.2 LTS
+- Frontend: Angular 10 / Angular Material
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Proyecto</th>
+  </tr>
+  <tr>
+    <th>Django 2.2 LTS</th>
+    <th>Angular 10 / Angular Material</th>
+    <td>
+      <a href="https://github.com/armandomariscal/cf">
+        <img src="https://img.shields.io/badge/cf-Django_+_Angular10-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="CF | Angular10" align="center">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Resumen 2020
+
+- Django 2.2 LTS
+- DRF
+- JWT
+- Angular 10
+- Angular Material
+- RxJS
+- NgRx
+
+---
+
+## Proyectos Destacados 2019
+🔰 Desarrollo y Mantenimiento de Sistemas de Contabilidad y Recursos Humanos con Django (MVT).
+- Frontend · Bootstrap v4.6
+- Backend · Django 2.2 LTS
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Proyecto</th>
+  </tr>
+  <tr>
+    <th>Django 2.2 LTS</th>
+    <th>Bootstrap v4.0</th>
+    <td>
+      <a href="https://github.com/armandomariscal/blue">
+        <img src="https://img.shields.io/badge/blue-Django-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Blue" align="center">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Resumen 2019
+
+- Enfoque principal en fundamentos Django
+- Django Templates
+- Django Forms
+- Django 2.2 LTS
+- Jinja/Django Templates
+- Bootstrap 4
+- jQuery
+- DataTables
 
 ---
 
