@@ -334,20 +334,27 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ---
 
-## Proyectos Destacados 2019
-🔰 Desarrollo y Mantenimiento de Sistemas de Contabilidad y Recursos Humanos con Django (MVT).
-- Frontend · Bootstrap v4.6
-- Backend · Django 2.2 LTS
+## Proyectos Destacados · 2019
+
+🔰 Etapa enfocada en la transición de PHP hacia el ecosistema Python/Django, explorando arquitecturas monolíticas server-rendered orientadas a sistemas administrativos y herramientas empresariales internas.
 
 <table>
   <tr>
+    <th>Year</th>
+    <th>Type</th>
     <th>Backend</th>
-    <th>Frontend</th>
-    <th>Proyecto</th>
+    <th>UI Layer</th>
+    <th>Database</th>
+    <th>Status</th>
+    <th>Project</th>
   </tr>
   <tr>
-    <th>Django 2.2 LTS</th>
-    <th>Bootstrap v4.0</th>
+    <td>2019</td>
+    <td>Monolith</td>
+    <td>Django 2.2 LTS</td>
+    <td>Django Templates + Bootstrap v4.0</td>
+    <td>SQLite</td>
+    <td>Legacy · Private</td>
     <td>
       <a href="https://github.com/armandomariscal/blue">
         <img src="https://img.shields.io/badge/blue-Django-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Blue" align="center">
@@ -358,14 +365,17 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ## Resumen 2019
 
-- Enfoque principal en fundamentos Django
-- Django Templates
-- Django Forms
-- Django 2.2 LTS
-- Jinja/Django Templates
-- Bootstrap 4
-- jQuery
-- DataTables
+Proyectos enfocados en arquitectura monolítica server-rendered utilizando Python, Django, Bootstrap y SQLite, orientados a sistemas administrativos y flujos empresariales tradicionales.
+
+### Stack y Enfoque Técnico
+
+- Arquitectura monolítica con renderizado server-side.
+- Django MVT y fundamentos del ecosistema Django.
+- Django Templates y Django Forms.
+- Bootstrap 4 y jQuery para interfaces administrativas.
+- Integración de DataTables en flujos CRUD.
+- Modelado relacional tradicional con SQLite.
+- Sistemas de contabilidad y recursos humanos.
 
 ---
 
