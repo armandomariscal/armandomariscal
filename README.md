@@ -301,64 +301,39 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ---
 
-## Proyectos Destacados 2020
+## Proyectos Destacados · 2020
 
-🔰 Evolución hacia arquitecturas híbridas backend/API, incorporando Django REST Framework y primeros proyectos desacoplados orientados a logística, operaciones empresariales y administración de flotillas.
+🔰 Transición hacia arquitecturas híbridas backend/API utilizando Django REST Framework, PostgreSQL y primeras integraciones frontend desacopladas.
 
 <table>
   <tr>
     <th>Architecture</th>
     <th>Backend</th>
     <th>Frontend</th>
-    <th>Database</th>
-    <th>Status</th>
     <th>Project</th>
   </tr>
   <tr>
     <td>Hybrid Monolith + REST APIs</td>
-    <td>Django 3.1 + DRF 3.12</td>
+    <td>Django 3.1 + DRF</td>
     <td>Angular 10 + Angular Material</td>
-    <td>PostgreSQL</td>
-    <td>Legacy · Private</td>
     <td>
       <a href="https://github.com/armandomariscal/latvian-red">
-        <img src="https://img.shields.io/badge/latvian--red-Fleet_Management-7B1E1E?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Latvian Red Fleet Management" align="center">
+        <img src="https://img.shields.io/badge/latvian--red-Fleet_Management-7B1E1E?style=flat&logo=django&logoColor=white&labelColor=333333">
       </a>
     </td>
   </tr>
 </table>
 
-## Resumen 2020
+### Highlights
 
-Año enfocado en la transición desde aplicaciones Django completamente server-rendered hacia arquitecturas híbridas con APIs REST, separación modular de dominios y consumo desacoplado de datos.
+- Django REST Framework introduction
+- PostgreSQL relational modeling
+- Fleet and logistics domain modeling
+- Modular Django architecture
+- Soft delete and custom managers
+- Early API versioning
 
-### Stack y Evolución Técnica
-
-- Migración de SQLite hacia PostgreSQL como base relacional principal.
-- Primeros proyectos con Django REST Framework y endpoints versionados.
-- Integración de Angular 10 consumiendo APIs REST con JWT.
-- Introducción a arquitecturas SPA y comunicación frontend/backend desacoplada.
-- Modelado de dominios empresariales más complejos:
-  - logística,
-  - mantenimiento preventivo,
-  - administración de flotillas,
-  - rutas operativas,
-  - combustible,
-  - costos operativos.
-- Estructuración modular de aplicaciones Django por dominio.
-- Uso de abstract base models, custom managers y soft delete patterns.
-- Administración avanzada con Django Admin personalizado.
-- Primeras prácticas orientadas a APIs mantenibles y separación de responsabilidades.
-
-### Enfoque General
-
-Los proyectos de esta etapa reflejan la evolución desde sistemas administrativos tradicionales hacia plataformas operacionales más cercanas a entornos enterprise, incorporando:
-
-- APIs REST,
-- organización modular,
-- modelado relacional más sólido,
-- integración frontend desacoplada,
-- y mejores prácticas backend dentro del ecosistema Django 2020.
+➡️ [View 2020 Detailed Breakdown](docs/2020.md)
 
 ---
 
