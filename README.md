@@ -301,7 +301,7 @@ Visualización de commits y constancia a lo largo del tiempo.
 
 ---
 
-## Proyectos Destacados · 2020
+## Featured Projects · 2020
 
 🔰 Transición hacia arquitecturas híbridas backend/API utilizando Django REST Framework, PostgreSQL y primeras integraciones frontend desacopladas.
 
@@ -318,7 +318,7 @@ Visualización de commits y constancia a lo largo del tiempo.
     <td>Angular 10 + Angular Material</td>
     <td>
       <a href="https://github.com/armandomariscal/latvian-red">
-        <img src="https://img.shields.io/badge/latvian--red-Fleet_Management-7B1E1E?style=flat&logo=django&logoColor=white&labelColor=333333">
+        <img src="https://img.shields.io/badge/latvian--red-Django-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="" align="center">
       </a>
     </td>
   </tr>
@@ -333,21 +333,20 @@ Visualización de commits y constancia a lo largo del tiempo.
 - Soft delete and custom managers
 - Early API versioning
 
-➡️ [View 2020 Detailed Breakdown](docs/2020.md)
+➡️ [View 2020 Detailed Breakdown](docs/es/2020.md)
 
 ---
 
-## Proyectos Destacados · 2019
+## Featured Projects · 2019
 
-🔰 Etapa enfocada en la transición de PHP hacia el ecosistema Python/Django, explorando arquitecturas monolíticas server-rendered orientadas a sistemas administrativos y herramientas empresariales internas.
+🔰 Early transition from PHP to the Python/Django ecosystem, focused on server-rendered monolithic architectures for administrative systems and internal business tools.
 
 <table>
   <tr>
-    <th>Type</th>
+    <th>Architecture</th>
     <th>Backend</th>
     <th>UI Layer</th>
     <th>Database</th>
-    <th>Status</th>
     <th>Project</th>
   </tr>
   <tr>
@@ -355,7 +354,6 @@ Visualización de commits y constancia a lo largo del tiempo.
     <td>Django 2.2 LTS</td>
     <td>Django Templates + Bootstrap v4.0</td>
     <td>SQLite</td>
-    <td>Legacy · Private</td>
     <td>
       <a href="https://github.com/armandomariscal/blue">
         <img src="https://img.shields.io/badge/blue-Django-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="Blue" align="center">
@@ -364,19 +362,7 @@ Visualización de commits y constancia a lo largo del tiempo.
   </tr>
 </table>
 
-## Resumen 2019
-
-Proyectos enfocados en arquitectura monolítica server-rendered utilizando Python, Django, Bootstrap y SQLite, orientados a sistemas administrativos y flujos empresariales tradicionales.
-
-### Stack y Enfoque Técnico
-
-- Arquitectura monolítica con renderizado server-side.
-- Django MVT y fundamentos del ecosistema Django.
-- Django Templates y Django Forms.
-- Bootstrap 4 y jQuery para interfaces administrativas.
-- Integración de DataTables en flujos CRUD.
-- Modelado relacional tradicional con SQLite.
-- Sistemas de contabilidad y recursos humanos.
+➡️ [View 2019 Detailed Breakdown](docs/es/2019.md)
 
 ---
 
