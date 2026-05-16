@@ -333,7 +333,7 @@ Commit consistency and long-term engineering progression across active learning 
   </tr>
 </table>
 
-➡️ [View 2020 Detailed Breakdown](docs/en/2020.md)
+➡️ [View 2020 Detailed Breakdown](docs/en/2020/README.md)
 
 ---
 
@@ -358,7 +358,7 @@ Commit consistency and long-term engineering progression across active learning 
   </tr>
 </table>
 
-➡️ [View 2019 Detailed Breakdown](docs/en/2019.md)
+➡️ [View 2019 Detailed Breakdown](docs/en/2019/README.md)
 
 ---
 
