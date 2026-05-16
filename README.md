@@ -7,13 +7,9 @@
       Frontend engineer with strong experience building scalable business applications and integrating complex backend services using Python and Django REST Framework.
       <br><br>
       Specialized in architecting modular interfaces with Webix while expanding into modern JavaScript and TypeScript ecosystems.
-      <br><br>
-      Focused on software architecture, distributed systems, and engineering practices that enable long-term scalability, maintainability, and product evolution.
     </td>
     <td width="600">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armandomariscal" alt="github-profile-summary-cards" />
-      <br>
-      Currently seeking opportunities to contribute within high-performing engineering teams where technical excellence, collaboration, and continuous professional growth are core to the development culture.
     </td>
   </tr>
 </table>
@@ -41,7 +37,7 @@ Evolución de mi actividad y consistencia en desarrollo.
 -->
 
 ## Featured Projects · 2026  
-### Modern JavaScript / TypeScript Engineering Evolution
+#### Modern JavaScript / TypeScript Engineering Evolution
 
 Focused on deliberate technical growth across the most relevant software engineering disciplines shaping modern product development.
 
