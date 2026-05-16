@@ -1,5 +1,5 @@
-# Armando Mariscal 
-## Frontend Engineer | JS Architecture · Webix Ecosystem · Python · Django · API Integration
+# Armando Mariscal · Frontend Engineer
+## JS Architecture · Webix Ecosystem · Python · Django · API Integration
 
 <table>
   <tr>
@@ -10,17 +10,17 @@
     </td>
     <td width="600">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armandomariscal" alt="github-profile-summary-cards" />
-    </td>
-  </tr>
-</table>
-
-## Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+    </td>
+  </tr>
+</table>
+
+
 
 <!--
 ## GitHub Stats
