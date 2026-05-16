@@ -1,5 +1,5 @@
 # Armando Mariscal 
-## Frontend Engineer | JavaScript Architecture · Webix Ecosystem · API Integration
+## Frontend Engineer | JS Architecture · Webix Ecosystem · Python · Django · API Integration
 
 <table>
   <tr>
@@ -44,6 +44,86 @@ Evolución de mi actividad y consistencia en desarrollo.
 ### Modern JavaScript / TypeScript Engineering Evolution
 
 Focused on deliberate technical growth across the most relevant software engineering disciplines shaping modern product development.
+
+<table>
+    <tr>
+        <th>🟣</th>
+        <th>QA</th>
+        <td>
+            <ul style="list-style:none;">
+                <a href="https://github.com/armandomariscal/sansar-tcg">
+                    <img src="https://img.shields.io/badge/sansar--tcg-Next.js-6200EA?style=flat&logo=nextdotjs&logoColor=white&labelColor=333333" alt="sansar-tcg QA" align="center">
+                </a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+            <th>🔵</th>
+            <th>System Design</th>
+            <td>
+            <ul style="list-style:none;">
+                <a href="https://github.com/armandomariscal/designing-distributed-systems">
+                <img src="https://img.shields.io/badge/designing--distributed--systems-Markdown-1A237E?style=flat&logo=markdown&logoColor=white&labelColor=333333" alt="designing-distributed-systems" align="center">
+                </a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+            <th>🔷</th>
+            <th>Frontend</th>
+            <td>
+            <ul style="list-style:none;">
+                <a href="https://github.com/armandomariscal/chevrolet-tracker">
+                <img src="https://img.shields.io/badge/chevrolet--tracker-Angular-2962FF?style=flat&logo=angular&logoColor=white&labelColor=333333" alt="chevrolet-tracker" align="center">
+                </a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+            <th>🟢</th>
+            <th>Backend</th>
+            <td>
+            <ul style="list-style:none;">
+                <a href="https://github.com/armandomariscal/movies">
+                <img src="https://img.shields.io/badge/movies-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
+                </a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+            <th>🟡</th>
+            <th>Core</th>
+            <td>
+            <ul style="list-style:none;">
+                <a href="https://github.com/armandomariscal/currency-converter">
+                <img src="https://img.shields.io/badge/currency--converter-TypeScript-FFD600?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="neon TypeScript" align="center">
+                </a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+            <th>🟠</th>
+            <th>Product</th>
+            <td>
+            <ul style="list-style:none;">
+                <a href="https://github.com/armandomariscal/mean-stack-portfolio">
+                <img src="https://img.shields.io/badge/mean--stack--portfolio-MEAN--Stack-F57F17?style=flat&logo=typescript&logoColor=white&labelColor=333333" alt="mean-stack-portfolio MEAN Stack" align="center">
+                </a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>🔴</th>
+        <th>Cloud</th>
+        <td>
+        <ul style="list-style:none;">
+            <a href="https://github.com/armandomariscal/art-movements">
+            <img src="https://img.shields.io/badge/art--movements-MEVN--Stack-D50000?style=flat&logo=vuedotjs&logoColor=white&labelColor=333333" alt="Art Movements MEVN Stack" align="center">
+            </a>
+        </ul>
+    </td>
+    </tr>
+</table>
 
 ## Current Focus
 
@@ -207,7 +287,7 @@ Commit consistency and long-term engineering progression across active learning 
 
 ***
 
-## Featured Project · 2021
+## Featured Projects · 2021
 
 🔰 Designed and implemented service-oriented web platforms integrating real-time communication, transactional workflows, cloud-based media storage, and scalable frontend delivery.
 
