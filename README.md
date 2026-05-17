@@ -143,7 +143,7 @@ Commit consistency and long-term engineering progression across active learning 
 
 <table>
   <tr>
-    <th>Stack</th>
+    <th></th>
     <th>Backend</th>
     <th>Frontend</th>
     <th>Project</th>
@@ -299,6 +299,19 @@ Commit consistency and long-term engineering progression across active learning 
     </td>
     <td>
       Alpine.js + Bulma
+    </td>
+    <td>
+      <a href="https://github.com/armandomariscal/messina">
+        <img src="https://img.shields.io/badge/mesina-Django-0c4b33?style=flat&logo=django&logoColor=white&labelColor=333333" alt="MESsina | Manufacturing Execution System" align="center">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Django 3.2 + DRF
+    </td>
+    <td>
+      Vue 2 + UIkit
     </td>
     <td>
       <a href="https://github.com/armandomariscal/oscars">
