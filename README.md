@@ -243,6 +243,15 @@ Commit consistency and long-term engineering progression across active learning 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>Django REST Framework</td>
+    <td>Vue2</td>
+    <td>
+      <a href="https://github.com/armandomariscal/wuxi">
+        <img src="https://img.shields.io/badge/wuxi-Vue-42B883?style=flat&logo=vuedotjs&logoColor=white&labelColor=333333" alt="Wuxi | Vue2" align="center">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ➡️ [View 2023 Detailed Breakdown](docs/en/2023.md)
