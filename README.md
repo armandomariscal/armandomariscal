@@ -252,6 +252,15 @@ Commit consistency and long-term engineering progression across active learning 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>Django REST Framework</td>
+    <td>Remix v1</td>
+    <td>
+      <a href="https://github.com/armandomariscal/calgary">
+        <img src="https://img.shields.io/badge/calgary-Remix-00dcff?style=flat&logo=remix&logoColor=white&labelColor=333333" alt="Calgary | Remix" align="center">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ➡️ [View 2023 Detailed Breakdown](docs/en/2023.md)
