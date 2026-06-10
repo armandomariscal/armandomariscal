@@ -80,8 +80,8 @@ Focused on deliberate technical growth across the most relevant software enginee
             <th>Backend</th>
             <td>
             <ul style="list-style:none;">
-                <a href="https://github.com/armandomariscal/movies">
-                <img src="https://img.shields.io/badge/movies-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="movies Node.js" align="center">
+                <a href="https://github.com/armandomariscal/max-lrt">
+                <img src="https://img.shields.io/badge/max--lrt-Node.js-2E7D32?style=flat&logo=nodedotjs&logoColor=white&labelColor=333333" alt="max-lrt Node.js" align="center">
                 </a>
             </ul>
         </td>
